@@ -5,6 +5,8 @@ this project is a complete **lua rewrite** of the original cubeascii project by 
 
 created by **IAmCyklus**, this was made **primarily for fun and learning purposes** in lua. it has been tested within **Psych Engine**, but it may work in other lua interpreters with slight modifications.
 
+[demostration](img/demo.gif).
+
 ---
 
 ## please note:
